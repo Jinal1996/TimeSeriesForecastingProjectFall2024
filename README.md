@@ -101,16 +101,19 @@ TimeSeriesForecastingProjectFall2024/
 **Run the Analysis:**
 To run the Jupyter Notebook:
 * Clone the repository.
+  ```bash
+   git clone https://github.com/Jinal1996/TimeSeriesForecastingProjectFall2024.git
+   cd TimeSeriesForecastingProjectFall2024
 * Navigate to the project directory:
   ```bash
   cd TimeSeriesForecastingProjectFall2024
 * Launch the notebook:
    * Jupyter Notebook:
      ```bash
-     jupyter notebook: Jinal_Fall 2024_TimeSeriesForecastingProject.ipynb
+     jupyter notebook: Jinal_Fall2024_TimeSeriesForecastingProject.ipynb
    * Python Script:
      ```bash
-     python scripts: Jinal_Fall 2024_TimeSeriesForecastingProject.py
+     python scripts: Jinal_Fall2024_TimeSeriesForecastingProject.py
 
 ## Visualizations
 ### Time Series of Monthly Production Values of Each Good
