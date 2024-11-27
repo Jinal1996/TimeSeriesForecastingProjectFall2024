@@ -128,7 +128,7 @@ To run the Jupyter Notebook:
 ### Facebook Prophet Forecast for Tomatoes
 ![Facebook Prophet Forecast for Tomatoes](/Facebook_Prophet_Forecast_for_Tomatoes.png)
 
-### Forecast Comparison for Tomatoes Using Pyplot
+### Combined Forecasts for Tomatoes Using Pyplot
 ![Forecast Comparison for Tomatoes Using Pyplot](/Forecast_Comparison_for_Tomatoes_Using_Pyplot.png)
 
 ### Combined Forecasts for Tomatoes Using Plotly
